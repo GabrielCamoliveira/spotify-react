@@ -1,0 +1,15 @@
+:root{
+    /*FONTES*/
+    --font-open-sans: 'Open Sans', sans-serif;
+
+    /*CORES*/
+    --color-white: #ffffff;
+    --color-gray: #b2b2b2;
+    --color-black: #000000;
+    --color-accent: #5ca1de;
+    --color-background: #1d1f4b;
+    --color-background-2: #2d3060;
+    --color-background-3: #444776;
+    --color-hover:  #1d64a2;
+    
+}
