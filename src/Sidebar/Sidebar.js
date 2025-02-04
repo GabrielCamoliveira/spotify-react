@@ -1,8 +1,8 @@
 import React from "react";
-import "./Sidebar_footer.css";
+import "./Sidebar.css";
 import logoSpotify from '../assets/icons/logo-spotify.png';
 
-const Sidebar_footer = () => {
+const Sidebar = () => {
     return (
         <div className="sidebar">
             <nav className="sidebar_navigation">
@@ -63,4 +63,4 @@ const Sidebar_footer = () => {
     )
 };
 
-export default Sidebar_footer;
+export default Sidebar;
